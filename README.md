@@ -1,5 +1,10 @@
 # Tikkit — AI-Driven Gamified To-Do List
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat&logo=qt&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Local LLM](https://img.shields.io/badge/AI-Qwen2.5-purple?style=flat)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Tikkit Demo](./assets/demo.gif)
 
 A desktop to-do list app built with PyQt6 that pairs real task management with a local, offline AI model. Every task you add is scored for difficulty by a small local LLM, which sets its cash reward and — optionally — breaks it into subtasks. Completing tasks earns in-app currency that's spent on furniture and clothing to decorate an isometric room and dress up your avatar.
